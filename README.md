@@ -2,6 +2,10 @@
 
 How to use: download crx file, put it into chrome extension page
 
+Doc link:
+https://developer.chrome.com/extensions/downloads
+https://chromium.googlesource.com/chromium/src/+/master/chrome/common/extensions/docs/examples/api/downloads/downloads_overwrite/
+
 ## write a simple chrome extension
 
 1. 实现效果：
